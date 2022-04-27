@@ -5,13 +5,12 @@ I am currently a Computer Science student at Universidade Federal Fluminense and
 
 # Interests
 
-- 👀 I’m very interested in Information Security, Networks and Computer Architecture. 
-Currently, I study the Security part a lot to be able to raise my level of knowledge in it every day.
+- 👀 I’m very interested in Information Security, DataBase, Networks and Computer Architecture. 
+Currently, I study the Security and DataBase part a lot to be able to raise my level of knowledge in it every day.
 
-#
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 
+- SQL
+- FIREBIRD SQL
 
 
 
