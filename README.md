@@ -10,7 +10,7 @@ Currently, I study the Security and DataBase part a lot to be able to raise my l
 
 # 
 - SQL
-- FIREBIRD SQL
+- Firebird SQL
 
 
 
