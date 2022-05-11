@@ -9,6 +9,7 @@ I am currently a Computer Science student at Universidade Federal Fluminense and
 Currently, I study the Security and DataBase part a lot to be able to raise my level of knowledge in it every day.
 
 # 
+- C
 - SQL
 - Firebird SQL
 
