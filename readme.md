@@ -10,6 +10,8 @@ Currently, I study the Security and DataBase part a lot to be able to raise my l
 
 # 
 - C
+- C++
+- JS
 - SQL
 - Firebird SQL
 
