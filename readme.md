@@ -15,6 +15,7 @@ Currently, I study the Security and DataBase part a lot to be able to raise my l
 - SQL
 - Firebird SQL
 - HTML5
+- CSS
 
 
 
