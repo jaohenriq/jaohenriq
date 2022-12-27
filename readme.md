@@ -5,8 +5,9 @@ I am currently a Computer Science student at Universidade Federal Fluminense and
 
 # Interests
 
-👀 I’m very interested in Information Security, DataBase, Networks and Computer Architecture. 
-Currently, I study the Security and DataBase part a lot to be able to raise my level of knowledge in it every day.
+👀 I’m very interested in Information Security, DataBase, Networks, Development and Computer Architecture. 
+Currently, I learnig from Full Stack Development.
+
 
 # 
 - C
@@ -17,7 +18,7 @@ Currently, I study the Security and DataBase part a lot to be able to raise my l
 - HTML5
 - CSS
 
-
+Rio das Ostras, Rio de Janeiro, Brazil 🇧🇷
 
 
 <!---
