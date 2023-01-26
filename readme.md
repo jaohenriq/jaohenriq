@@ -17,6 +17,7 @@ Currently, I learnig from Full Stack Development.
 - Firebird SQL
 - HTML5
 - CSS
+- Flutter
 
 Rio das Ostras, Rio de Janeiro, Brazil 🇧🇷
 
